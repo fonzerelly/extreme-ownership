@@ -1,0 +1,45 @@
+<html>
+    <head>
+        <link rel="stylesheet" href="node_modules/reveal.js/css/reveal.css">
+        <link rel="stylesheet" href="node_modules/reveal.js/lib/css/zenburn.css">
+        <link rel="stylesheet" href="node_modules/reveal.js/css/theme/white.css">
+        <meta charset="UTF-8">
+        <style>
+            .reveal section img {
+                border: 0px;
+                box-shadow: none;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="reveal">
+            <div class="slides">
+                <section data-markdown="introduction.md"
+                     data-separator="^\?\?HORIZONTAL"
+                     data-separator-vertical="^\?\?VERTICAL"
+                     data-separator-notes="^Note:"
+                     data-charset="UTF-8">
+                </section>
+                <section>
+                    <h1>Thank you</h1>
+                </section>
+            </div>
+        </div>
+        <script src="node_modules/reveal.js/js/reveal.js"></script>
+        <script src="node_modules/reveal.js/plugin/markdown/marked.js"></script>
+        <script src="node_modules/reveal.js/plugin/markdown/markdown.js"></script>
+        <script src="node_modules/reveal.js/plugin/highlight/highlight.js"></script>
+        <script src="node_modules/reveal.js/plugin/notes/notes.js"></script>
+        <script src="node_modules/reveal.js/plugin/notes-server/client.js"></script>
+        <script>
+            Reveal.initialize()
+        </script>
+        <script>
+            var link = document.createElement( 'link' );
+            link.rel = 'stylesheet';
+            link.type = 'text/css';
+            link.href = window.location.search.match( /print-pdf/gi ) ? 'node_modules/reveal.js/css/print/pdf.css' : 'node_modules/reveal.js/css/print/paper.css';
+            document.getElementsByTagName( 'head' )[0].appendChild( link );
+        </script>
+    </body>
+</html>
