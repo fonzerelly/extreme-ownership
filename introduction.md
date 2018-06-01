@@ -60,8 +60,8 @@ that I felt so connected to my team like in this moment.
 
 ??VERTICAL
 ## Brightened up
-In the end, I did not get fired. Instead the face of my boss brightend. He accepted the
-problems and I think he also was a little evnious that my team backed me up that much.
+Note: In the end, I did not get fired. Instead the face of my boss brightend. He accepted
+the problems and I think he also was a little evnious that my team backed me up that much.
 
 ??VERTICAL
 ## Book
@@ -95,25 +95,26 @@ we apply Extreme Ownership to Software development?
 ??VERTICAL
 ## Extreme Ownership
 * take ownership for your mission <!-- .element: class="fragment" -->
+* put your ego aside <!-- .element: class="fragment" -->
+* it is always your fault <!-- .element: class="fragment" -->
+* Extreme Ownership is contagious <!-- .element: class="fragment" -->
+
 Note: So what does Extreme Ownership mean. First of all it means that you identify yourself
 with your mission. You can not come at 9 and leave at 5 if your mission is not completed
 yet. If it is important to you, you will do everything to make the mission work.
 
 You take Ownership.
 
-* put your ego aside <!-- .element: class="fragment" -->
-Note: But it also means, that you accept, that if something goes wrong, that it is always
+But it also means, that you accept, that if something goes wrong, that it is always
 you, the leader, who failed. You can not blame the team. If the team fails it is still your
 failure since you did not communicate the mission goal properly to them.
 If the circumstances seem to be unfair, it is up to you, the leader, to find ways to
 compensate such bad circumstances and plan against upfront. So put your ego aside...
 
-* it is always your fault
-Note: ... and accept, that it is always your fault if something goes wrong. You
+... and accept, that it is always your fault if something goes wrong. You
 must not hide. But what we also already saw is: ...
 
-* Extreme Ownership is contagious
-Note: ... Extreme Ownership is contagious(ansteckend). If you act as a role model for your
+... Extreme Ownership is contagious(ansteckend). If you act as a role model for your
 team, your team will follow up. And also if your manager sees your team to work better, it
 might also radiate up the chain of command and some day you will be surprised how honorable
 your manager acts upon you.
