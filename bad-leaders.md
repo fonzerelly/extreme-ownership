@@ -1,16 +1,8 @@
 <img src="images/tdd-1.jpg" width="75%">
 Note: But my team are is just ignorant.
-
-??VERTICAL
-<img src="images/tdd-2.jpg" width="75%">
-Note:
 * They ignore the fact that their performance slows down.
 * They ignore the bad impression they make to the rest of the company.
 * They prefer to accuse the PO for not giving them time to clean up the code.
-
-??VERTICAL
-<img src="images/tdd-3.jpg" width="75%">
-Note:
 * They think TDD is a waste of time. They will never do TDD.
 
 
