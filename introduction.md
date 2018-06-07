@@ -107,8 +107,7 @@ yet. If it is important to you, you will do everything to make the mission work.
 You take Ownership.
 
 But it also means, that you accept, that if something goes wrong, that it is always
-you, the leader, who failed. You can not blame the team. If the team fails it is still your
-failure since you did not communicate the mission goal properly to them.
+you, the leader, who failed. You can not blame the team. If the team fails it is still your failure since you did not communicate the mission goal properly to them.
 If the circumstances seem to be unfair, it is up to you, the leader, to find ways to
 compensate such bad circumstances and plan against upfront. So put your ego aside...
 
@@ -117,7 +116,4 @@ must not hide. But what we also already saw is: ...
 
 ... Extreme Ownership is contagious(ansteckend). If you act as a role model for your
 team, your team will follow up. And also if your manager sees your team to work better, it
-might also radiate up the chain of command and some day you will be surprised how honorable
-your manager acts upon you.
-
-TODO: Only bad leaders...
+might also radiate up the chain of command and some day you will be surprised how honorable your manager acts upon you.
