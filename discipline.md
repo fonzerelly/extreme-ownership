@@ -21,9 +21,8 @@ Note: So the core of that functionality is a function that can convert a number 
 A naive solution to tdhis problem might look like this. You just define several if-clauses each for one of the described usecases. You should recognize, that the algorith depends on the order of the if-clauses. If the fizzbuzz clause whould not be at the top, we would never hit it. This solution might be easy but it is not simple.
 
 ??VERTICAL
-<img src="images/jocko.jpg" height="75%">
-"Damn right soldier, simple is not easy!"
-<audio data-autoplay src="audio/simple-is-not-easy.wav"></audio>
+<img src="images/jocko.jpg" height="25%">
+"Simple is not easy!"
 
 ??VERTICAL
 <img src="images/fizz-buzz-zuzz.jpg" height="75%">
@@ -65,15 +64,15 @@ Note: This was a very simple example of what happens to many code repositories o
 But if the code gets more complex, each time we will touch it we will need more time to insert a new feature since we have to reunderstand it again and again. If my team mate was not aware of the order issue, he or she might insert a new if clause in the wrong place and it might take hours to find out why the function is not working as expected. So the performance of the team will go down over the time and the cost for each new feature raises exponentionally after each release.
 
 ??VERTICAL
-<img src="images/jocko.jpg" height="75%">
-"Common Pal stop wimping around. Are u a democrate or what? Take ownership! How could you clean up the mess?"
+<img src="images/jocko.jpg" height="25%">
+"Decisivley engaged is a term to describe a battle in which a unit locked in a tough combat situation cannot maneuver or extricte themselves."
 
 ??VERTICAL
 <img src="images/toiletpaper.jpg" height="75%">
 Note: Well cleaning up in this case means refactoring. I would have to modify the code so that it gets simpler but still brings the same functionality. But how can I be sure that this is the case? How can I guarantee that my code does not break?
 
 ??VERTICAL
-<img src="images/jocko.jpg" height="75%">
+<img src="images/jocko.jpg" height="25%">
 "Discipline means freedom"
 Note: "I can tell you, if we would not organize ourselfes in the battle, we might find ourselves in a blue-on-blue. When you are in urban combat, it might happen that you are ducking inside a house and another platoon of your brothers is sitting in the neighbourhouse. But neither of those two parties know that the party in the neighbour house is friendly and somehow a shooting starts. It is one of the worst things that can happen in the battlefield. But we organize ourselfes by discipline. Discipline means freedom, in our case freedom to move securely in the battle field.
 
@@ -81,3 +80,19 @@ Note: "I can tell you, if we would not organize ourselfes in the battle, we migh
 <img src="images/ci-build.jpg" height="75%">
 Note: Well in a good Development-Team you organize yourself around a so called Continious Build.
 It means that everytime you modify the code and store it in the version controll system of your choice, a server takes on that modification and applies several qualitygates on it. One can be a socalled statical code analysis. If you work in a compiled language, the compilation of your code is another quality gate. But only when you practice TDD, you have a suite Tests that covers your codebase good enough to trust in its results so that you can be sure not to break the system when you refactor something. To know your Testsuite is good enough you can evan apply Mutationbased Testing.
+
+??VERTICAL
+<img src="images/jocko.jpg" width="25%">
+"It's not what you preach, it's what you tolerate"
+Note: So if you convince your team to adopt that technique and you do not tolerate any excusions, then this will work. It's not what you preach, it's what you tolerate!"
+
+??VERTICAL
+## Discipline
+
+* Take care for your issues by time. <!-- .element: class="fragment" -->
+
+* Specify with your team rules to follow. <!-- .element: class="fragment" -->
+
+* Ensure that the rules get respected by automatic checks. <!-- .element: class="fragment" -->
+
+* Hurting the rules means hurting the team. <!-- .element: class="fragment" -->

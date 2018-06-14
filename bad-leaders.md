@@ -68,12 +68,8 @@ Note: Although when you apply TDD, the distribution of those time blocks change 
 Note: The time for studing reduces by the half. Why? Because in TDD we instead of one file we have always a pair of files, where one represents the production code and the other one is the test. And the test also works for you as evaluable documentation. So you will see more quickly how things work.
 
 ??VERTICAL
-<img src="images/locf-1.jpg" width="75%">
+<img src="images/locf-6.jpg" width="75%">
 Note: But especially the GaK-Time reduces by 80 to 90%. There is no need to startup the whole software over and over again to find out where an error is happening. It is the test that shows you directly.
 
 Of course this does not happen from day one. You have to learn TDD as you have to lern lots of other things. But there is lots of material out there and I would love to make so called katas with my team to train the methodology.
 
-??VERTICAL
-<img src="images/jocko.jpg" width="25%">
-"It's not what you preach, it's what you tolerate"
-Note: So if you convince your team to adopt that technique and you do not tolerate any excusions, then this will work. It's not what you preach, it's what you tolerate!"

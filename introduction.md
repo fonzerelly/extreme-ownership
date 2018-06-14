@@ -29,14 +29,12 @@ that this won't work or might be quite complex.
 <img src="images/boss-explodes.jpg" height="75%">
 Note: While I was explaining, the mood of my boss turned from indifferent to furious. His
 questions got more and more aggressive.
-
-??VERTICAL
-<img src="images/meetingx.jpg" height="100%">
-Note: I felt my stomach twist and got afraid what might happen here. Of course I might have
+I felt my stomach twist and got afraid what might happen here. Of course I might have
 tried to accuse my team, since not everything they did was in my intent. But than I heard a voice in my head:
 
 ??VERTICAL
-<img src="images/jocko.jpg" height="75%">
+<img src="images/jocko.jpg" height="25%">
+"Take Ownership and accept the failure"
 Note: "Come on soldier you can not betray your comerades. Put your ego aside. You know that
 it was  your design decisions are the reason for failing. Take ownership!"
 
