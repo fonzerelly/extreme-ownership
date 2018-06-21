@@ -72,9 +72,6 @@ Note: And this is... no sorry :)
 Note: ... this is Jocko Willink, the voice I heard in my head and you can
 listen him yourself, because he has his own Podcast "Jocko Podcast".
 
-??VERTICAL
-<img src="images/jocko-and-leif.jpg" height="75%">
-Note: Jocko and his collegue
 Leif Babin, have been Navy Seals in the war of Iraq, which raged between 2003-2011.
 They have written the book "Extreme Ownership", in which they described the
 discipline principles, that helped them to survive war and how they applied them to real

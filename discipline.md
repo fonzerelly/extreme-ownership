@@ -77,7 +77,7 @@ Note: Well cleaning up in this case means refactoring. I would have to modify th
 Note: "I can tell you, if we would not organize ourselfes in the battle, we might find ourselves in a blue-on-blue. When you are in urban combat, it might happen that you are ducking inside a house and another platoon of your brothers is sitting in the neighbourhouse. But neither of those two parties know that the party in the neighbour house is friendly and somehow a shooting starts. It is one of the worst things that can happen in the battlefield. But we organize ourselfes by discipline. Discipline means freedom, in our case freedom to move securely in the battle field.
 
 ??VERTICAL
-<img src="images/ci-build.jpg" height="75%">
+<img src="images/ci-build.jpg" height="90%">
 Note: Well in a good Development-Team you organize yourself around a so called Continious Build.
 It means that everytime you modify the code and store it in the version controll system of your choice, a server takes on that modification and applies several qualitygates on it. One can be a socalled statical code analysis. If you work in a compiled language, the compilation of your code is another quality gate. But only when you practice TDD, you have a suite Tests that covers your codebase good enough to trust in its results so that you can be sure not to break the system when you refactor something. To know your Testsuite is good enough you can evan apply Mutationbased Testing.
 

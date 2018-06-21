@@ -3,7 +3,7 @@ Note: But my PO has a similar attitude. He thinks that if we apply TDD we tend t
 
 ??VERTICAL
 <img src="images/jocko.jpg" width="25%">
-"Frontline leaders must be empowerd without micromenegement from the top."
+"Frontline leaders must be empowerd without micromanagement from the top."
 Note: "Pal, I've got news for you. Your boss can not micromanage you. Do you think I would have time to ask the General for every wall I'm gonna duck behind? Of course not."
 
 ??VERTICAL
@@ -30,11 +30,14 @@ Note: Well not always. To be honest very often I do not share his opinion, that 
 
 ??VERTICAL
 <img src="images/jocko.jpg" width="25%">
-"If Leaders cannot determine a satisfctory answer themselves, they must ask questions up the chain of command until the understand."
+"Ask until you understand."
 
 Note: "Well if you do not believe to the mission, how should you sell it to your teammates? If you do not share his opinion, how should you decide about the fiddly details that the PO can not decide. He has no experience in development. How could he ever decide about it?
 
 So If you do not share his opinion you have to ask back. Let him explain why this specific decision is necessary right now. He needs to sell you his decision just as you had to sell the required diciplines to your team mates."
+
+??VERTICAL
+<img src="images/top-decision.jpg" width="75%"> 
 
 ??VERTICAL
 <img src="images/back-up.jpg" width="75%"> 
