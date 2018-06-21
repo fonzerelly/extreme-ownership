@@ -1,4 +1,4 @@
-# Extreme Ownership applied to Software Development
+## Extreme Ownership applied to Software Development
 
 Note: Hello welcome to this talk. Before we begin I would like to tell you a little story from
 
