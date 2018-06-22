@@ -65,7 +65,13 @@ But if the code gets more complex, each time we will touch it we will need more 
 
 ??VERTICAL
 <img src="images/jocko.jpg" height="25%">
-"Decisivley engaged is a term to describe a battle in which a unit locked in a tough combat situation cannot maneuver or extricte themselves."
+Decisivly Engaged <br>
+<img src="images/decisivly-engaged.jpg" height="50%">
+
+??VERTICAL
+<img src="images/jocko.jpg" height="25%">
+You have to win or you are lost! <br>
+<img src="images/decisivly-engaged2.jpg" height="50%">
 
 ??VERTICAL
 <img src="images/toiletpaper.jpg" height="75%">
