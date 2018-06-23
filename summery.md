@@ -41,6 +41,9 @@ The best architectures, requirements, and designs
 emerge from self-organizing teams. => Decentralized Command
 
 ??VERTICAL
+## Extreme Ownership is nothing but another view to Agility
+
+??VERTICAL
 <img src="images/team.jpg" width="100%">
 Note: What does this mean to us as developers? I would say:
 Weather you carry some kind of title or not: Be the leader.
