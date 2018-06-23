@@ -3,72 +3,72 @@
 Note: Hello welcome to this talk. Before we begin I would like to tell you a little story from
 
 ??HORIZONTAL
-<img src="images/baby.jpg" height="75%">
+<img src="images/baby.jpg" width="75%">
 Note: ... my first job when I took some kind of responsibility for a project. I was young and a bit naive and
 I still believed that if you would programm according to Design Patterns everything would be great in your software.
 
 And Santa Claus is bringing the presents.
 
 ??VERTICAL
-<img src="images/singleton.jpg" height="75%">
+<img src="images/singleton.jpg" width="75%">
 Note: So from all of the design patterns you can find in the book I mainly understood the Singleton. Well, if all you have is a hammer, everything looks like a nail. And today we know, that Singletons have more of an Antipattern than a valid Design Pattern. It happened the way it had to.
 
 ??VERTICAL
-<img src="images/missed-release.jpg" height="75%">
+<img src="images/missed-release.jpg" width="75%">
 Note: So I let my Team implement Singletons. With time came the complexity but no
 simplification in sight, so that the project took longer and longer. We missed the
 release date by several weeks.
 
 ??VERTICAL
-<img src="images/meetingx.jpg" height="100%">
+<img src="images/meetingx.jpg" width="100%">
 Note: My boss invited us to a meeting, in which he tried to find out what went wrong. He
 asked how hard it would be to add this or that feature. And all the time I had to answer
 that this won't work or might be quite complex.
 
 ??VERTICAL
-<img src="images/boss-explodes.jpg" height="75%">
+<img src="images/boss-explodes.jpg" width="75%">
 Note: While I was explaining, the mood of my boss turned from indifferent to furious. His
 questions got more and more aggressive.
 I felt my stomach twist and got afraid what might happen here. Of course I might have
 tried to accuse my team, since not everything they did was in my intent. But than I heard a voice in my head:
 
 ??VERTICAL
-<img src="images/jocko.jpg" height="25%">
+<img src="images/jocko.jpg" width="25%">
 "Take Ownership and accept the failure"
 Note: "Come on soldier you can not betray your comerades. Put your ego aside. You know that
 it was  your design decisions are the reason for failing. Take ownership!"
 
 ??VERTICAL
-<img src="images/meeting2.jpg" height="100%">
+<img src="images/meeting2.jpg" width="100%">
 Note: Somehow I wrestled down my feelings, especially since I admitted that the main issue
 had been my Singleton-centered design.
 So I managed to spell the words: "It was my fault". But then my Boss was about to
 butcher me as a warning example for all the others.
 
 ??VERTICAL
-<img src="images/defense.jpg" height="100%">
+<img src="images/defense.jpg" width="100%">
 Note: And although I already prepared myself for getting fired in the next moments, I found
 my teammates stand up for me and explaining that all that stuff is not so easy as it might
 seem. This was the most memorable moment of empathy in my career. Neither before or after
 that I felt so connected to my team like in this moment.
 
 ??VERTICAL
-<img src="images/brighten-up.jpg" height="75%">
+<img src="images/brighten-up.jpg" width="75%">
 Note: In the end, I did not get fired. Instead the face of my boss brightend. He accepted
 the problems and I think he also was a little evnious that my team backed me up that much.
 
 ??VERTICAL
-<img src="images/book.jpg" height="75%">
+<img src="images/book.jpg" width="75%">
 Note: Although it should take about ten more years of experince since I got in touch
 with the book "Extreme Ownership", this was kind of my first glimpse on this concept that
 contains so much truth and of which we will have a look at some of its main ideas.
 
 ??VERTICAL
-<img src="images/jocko.jpg" height="75%">
+<img src="images/jocko.jpg" width="50%">
 Note: And this is... no sorry :)
 
 ??VERTICAL
-<img src="images/jocko_orig.jpg" height="75%">
+<img src="images/jocko_orig.jpg" width="50%">
 Note: ... this is Jocko Willink, the voice I heard in my head and you can
 listen him yourself, because he has his own Podcast "Jocko Podcast".
 
