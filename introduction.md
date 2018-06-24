@@ -1,4 +1,7 @@
 ## Extreme Ownership applied to Software Development
+<br><br>
+Christian H&ouml;rauf<br>
+<img src="images/twitter.png" width="5%"><sup>@fonzygruen</sup>
 
 Note: Hello welcome to this talk. Before we begin I would like to tell you a little story from
 
@@ -79,6 +82,10 @@ companies as management consultants.
 
 ??VERTICAL
 <img src="images/consorsbank.jpg">
+<br><br>
+Christian H&ouml;rauf<br>
+<img src="images/twitter.png" width="5%"><sup>@fonzygruen</sup>
+
 Note: My name is Christian Hörauf, I currently work for Consorsbank, right here in
 Nuremburg and I love TDD and Functional Programming.But before we continue, I want to clearify, that I have been conscentious objector
 (Kriegsdienstverweigerer). I also object the questionable political interessts that backed
@@ -112,3 +119,13 @@ must not hide. But what we also already saw is: ...
 ... Extreme Ownership is contagious(ansteckend). If you act as a role model for your
 team, your team will follow up. And also if your manager sees your team to work better, it
 might also radiate up the chain of command and some day you will be surprised how honorable your manager acts upon you.
+
+
+??VERTICAL
+## Agenda
+* Extreme Ownership
+* Discipline <!-- .element: class="fragment" -->
+* The Good Leader <!-- .element: class="fragment" -->
+* Decentralized Command <!-- .element: class="fragment" -->
+* Prioritize <!-- .element: class="fragment" -->
+* Summary <!-- .element: class="fragment" -->

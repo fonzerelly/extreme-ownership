@@ -20,20 +20,20 @@ You have to win or you are lost! <br>
 ??VERTICAL
 ## Prioritize
 
-1. Identify the bottleneck. <!-- .element: class="fragment" -->
+1. Identify the bottleneck <!-- .element: class="fragment" -->
 
-1. Optimize bottleneck. <!-- .element: class="fragment" -->
+1. Optimize bottleneck <!-- .element: class="fragment" -->
 
 1. Return to first step <!-- .element: class="fragment" -->
 
 ??VERTICAL
 
-* Identified bottleneck: Testenvironment Setup
+* Identified bottleneck: Testenvironment Setup <!-- .element: class="fragment" -->
 
-* Optimize bottleneck: Move Testenvironment to Cloud
+* Optimize bottleneck: Move Testenvironment to Cloud <!-- .element: class="fragment" -->
 
-* Identified bottleneck: Old Stager knows Guts of System
+* Identified bottleneck: Old Stager knows Guts of System <!-- .element: class="fragment" -->
 
-* Optimize bottleneck: Let him instruct others.
+* Optimize bottleneck: Let him instruct others <!-- .element: class="fragment" -->
 
-* ...
+* ... <!-- .element: class="fragment" -->
