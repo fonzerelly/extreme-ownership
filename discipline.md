@@ -5,15 +5,9 @@ implications come out of it. We asume that our Product Owner comes to us with a 
 ??VERTICAL
 ```
 function fizzbuzz (n) {
-    if((n % 3 === 0 ) && (n % 5 === 0)) {
-        return "fizzbuzz"
-    }
-    if (n % 5 === 0) {
-        return "buzz"
-    }
-    if (n % 3 === 0) {
-        return "fizz"
-    }
+    if((n % 3 === 0 ) && (n % 5 === 0)) return "fizzbuzz"
+    if (n % 5 === 0) return "buzz"
+    if (n % 3 === 0) return "fizz"
     return String(n)
 }
 ```
@@ -31,27 +25,13 @@ Note: Yes, you are right. But let's explain this to the audience. Imagine the pr
 ??VERTICAL
 ```
 function fizzbuzz (n) {
-    if((n % 3 === 0 ) && (n % 5 === 0) && (n % 7 === 0)) {
-        return "fizzbuzzzuzz"
-    }
-    if((n % 3 === 0 ) && (n % 7 === 0)) {
-        return "fizzzuzz"
-    }
-    if((n % 5 === 0 ) && (n % 7 === 0)) {
-        return "buzzzuzz"
-    }
-    if((n % 3 === 0 ) && (n % 5 === 0)) {
-        return "fizzbuzz"
-    }
-    if (n % 7 === 0) {
-        return "zuzz"
-    }
-    if (n % 5 === 0) {
-        return "buzz"
-    }
-    if (n % 3 === 0) {
-        return "fizz"
-    }
+    if((n % 3 === 0 ) && (n % 5 === 0) && (n % 7 === 0))return "fizzbuzzzuzz"
+    if((n % 3 === 0 ) && (n % 7 === 0)) return "fizzzuzz"
+    if((n % 5 === 0 ) && (n % 7 === 0)) return "buzzzuzz" 
+    if((n % 3 === 0 ) && (n % 5 === 0)) return "fizzbuzz"
+    if (n % 7 === 0) return "zuzz"
+    if (n % 5 === 0) return "buzz"
+    if (n % 3 === 0) return "fizz"
     return String(n)
 }```
 
@@ -64,22 +44,13 @@ Note: This was a very simple example of what happens to many code repositories o
 But if the code gets more complex, each time we will touch it we will need more time to insert a new feature since we have to reunderstand it again and again. If my team mate was not aware of the order issue, he or she might insert a new if clause in the wrong place and it might take hours to find out why the function is not working as expected. So the performance of the team will go down over the time and the cost for each new feature raises exponentionally after each release.
 
 ??VERTICAL
-<img src="images/jocko.jpg" width="25%">
-Decisivly Engaged <br>
-<img src="images/decisivly-engaged.jpg" width="50%">
-
-??VERTICAL
-<img src="images/jocko.jpg" width="25%">
-You have to win or you are lost! <br>
-<img src="images/decisivly-engaged2.jpg" width="50%">
-
-??VERTICAL
 <img src="images/toiletpaper.jpg" width="75%">
 Note: Well cleaning up in this case means refactoring. I would have to modify the code so that it gets simpler but still brings the same functionality. But how can I be sure that this is the case? How can I guarantee that my code does not break?
 
 ??VERTICAL
 <img src="images/jocko.jpg" width="25%">
 "Discipline means freedom"
+<img src="images/blue-on-blue.jpg" width="75%">
 Note: "I can tell you, if we would not organize ourselfes in the battle, we might find ourselves in a blue-on-blue. When you are in urban combat, it might happen that you are ducking inside a house and another platoon of your brothers is sitting in the neighbourhouse. But neither of those two parties know that the party in the neighbour house is friendly and somehow a shooting starts. It is one of the worst things that can happen in the battlefield. But we organize ourselfes by discipline. Discipline means freedom, in our case freedom to move securely in the battle field.
 
 ??VERTICAL
@@ -95,10 +66,41 @@ Note: So if you convince your team to adopt that technique and you do not tolera
 ??VERTICAL
 ## Discipline
 
-* Take care for your issues by time. <!-- .element: class="fragment" -->
+* Plan ahead <!-- .element: class="fragment" -->
 
-* Specify with your team rules to follow. <!-- .element: class="fragment" -->
+* Specify rules <!-- .element: class="fragment" -->
 
-* Ensure that the rules get respected by automatic checks. <!-- .element: class="fragment" -->
+* Ensure respectation of rules <!-- .element: class="fragment" -->
 
-* Hurting the rules means hurting the team. <!-- .element: class="fragment" -->
+* Hurting the rules means hurting the team <!-- .element: class="fragment" -->
+
+??VERTICAL
+```
+function fizz(n) {
+    if (n % 3 === 0) return "fizz"
+    return ""
+}
+function buzz(n) {
+    if (n % 5 === 0) return "buzz"
+    return ""
+}
+function fizzbuzz (n) {
+    let result = fizz(n) + buzz(n)
+    if (result === "")  return String(n)
+    return result
+}
+```
+
+??VERTICAL
+```
+...
+function zuzz(n) {
+    if (n % 5 === 0) return "buzz"
+    return ""
+}
+function fizzbuzzzuzz (n) {
+    let result = fizz(n) + buzz(n) + zuzz(n)
+    if (result === "")  return String(n)
+    return result
+}
+```
