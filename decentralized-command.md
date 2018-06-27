@@ -48,5 +48,5 @@ Note: But after all discussion and finding a way together, you have to backup yo
 
 * Believe in your mission <!-- .element: class="fragment" -->
 * Understand not just what to do but why you should do it <!-- .element: class="fragment" -->
-* Have implicit trust that your senior leader bill back their decisions <!-- .element: class="fragment" -->
+* Have implicit trust that your senior leader bill back your decisions <!-- .element: class="fragment" -->
 * All levels must be empowerd to make decisions <!-- .element: class="fragment" -->

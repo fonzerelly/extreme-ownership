@@ -44,6 +44,9 @@ emerge from self-organizing teams. => Decentralized Command
 ## Extreme Ownership is nothing but another view to Agility
 
 ??VERTICAL
+## Exteme Ownership is flesh and blood where Scrum is only the sceleton
+
+??VERTICAL
 <img src="images/team.jpg" width="100%">
 Note: What does this mean to us as developers? I would say:
 Weather you carry some kind of title or not: Be the leader.
